@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36b3dae8-fbe3-48c7-a835-dc88fa0416a7" name="Default Changelist" comment="Add custom_logger.py" />
+    <list default="true" id="36b3dae8-fbe3-48c7-a835-dc88fa0416a7" name="Default Changelist" comment="Add some changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600109563261</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add some changes">
+      <created>1600109640589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600109640589</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +86,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add custom_logger.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add custom_logger.py" />
+    <MESSAGE value="Add some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add some changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="181" key="Vcs.Push.Dialog.v2" timestamp="1600109333585">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="320" y="181" key="Vcs.Push.Dialog.v2/0.23.1440.837@0.23.1440.837" timestamp="1600109333585" />
   </component>
 </project>
